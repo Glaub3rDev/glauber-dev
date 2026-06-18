@@ -1,2 +1,0 @@
-# glauber-dev
-Portifólio
