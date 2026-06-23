@@ -1,0 +1,80 @@
+==============================
+PORTFÓLIO - CONTEÚDO
+==============================
+
+==============================
+HERO (TELA INICIAL)
+==============================
+
+Olá, eu sou o Glauber
+Assistente de TI | Desenvolvedor Web em evolução
+
+Desenvolvo interfaces web modernas com foco em organização, performance e experiência do usuário.
+
+Atualmente estudo desenvolvimento front-end com HTML, CSS e JavaScript, aplicando meus conhecimentos em projetos práticos para evolução contínua.
+
+==============================
+SOBRE MIM
+==============================
+
+Sou um profissional da área de Tecnologia da Informação com foco em desenvolvimento web.
+
+Tenho base sólida em HTML e CSS e estou em constante evolução com JavaScript, buscando construir aplicações mais dinâmicas e bem estruturadas.
+
+Meu objetivo é evoluir como desenvolvedor front-end, criando projetos reais que me desafiem tecnicamente e me aproximem do mercado de trabalho.
+
+Valorizo boas práticas de código, organização e aprendizado contínuo.
+
+==============================
+SKILLS (HABILIDADES)
+==============================
+
+- HTML5
+- CSS3
+- JavaScript (básico em evolução)
+- Lógica de programação
+- Organização de código
+- Estruturação de projetos web
+- Versionamento com Git (em aprendizado)
+
+==============================
+PROJETOS
+==============================
+
+Portfólio Pessoal
+Site desenvolvido para apresentar minhas habilidades, projetos e evolução como desenvolvedor front-end.
+
+Objetivo: praticar estruturação de layout, organização de componentes e estilização moderna com CSS.
+
+---
+
+Landing Pages
+Criação de páginas simples e responsivas para treinar HTML e CSS.
+
+Objetivo: melhorar design, responsividade e construção de interfaces.
+
+---
+
+Projeto Sistema Web (em desenvolvimento)
+Aplicação focada em JavaScript para manipulação de dados e interação com o usuário.
+
+Objetivo: fortalecer lógica de programação e dinamismo no front-end.
+
+==============================
+CONTATO
+==============================
+
+Vamos conversar?
+
+Estou aberto a oportunidades, projetos e colaboração na área de desenvolvimento web.
+
+Email: seuemail@exemplo.com
+GitHub: github.com/seuusuario
+LinkedIn: linkedin.com/in/seuusuario
+
+==============================
+FOOTER
+==============================
+
+© 2026 - Glauber | Portfólio Desenvolvedor Web
+Todos os direitos reservados
